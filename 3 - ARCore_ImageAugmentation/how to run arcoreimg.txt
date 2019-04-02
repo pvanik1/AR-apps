@@ -1,0 +1,4 @@
+- Download the AR Core SDK from google and extract
+- go to the folder with acroreimg.exe
+- add that path to Path in System variables
+- run the command to get the score: .\arcoreimg.exe eval-img --input_image_path="C:\Users\peter\Desktop\1_a.jpg"
